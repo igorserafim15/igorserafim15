@@ -22,7 +22,7 @@ Sou criativo, auto motivado e fascinado por design e tecnologia. Estou sempre bu
 
 <hr>
 
-### Skills Front End
+### Front End Skills 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -36,7 +36,7 @@ Sou criativo, auto motivado e fascinado por design e tecnologia. Estou sempre bu
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorserafim15&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Skills Designer
+### Design Skills
 
 ![Photoshop](https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15)
 ![XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
