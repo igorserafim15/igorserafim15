@@ -15,19 +15,21 @@ Atualmente moro em São Paulo, SP.
 
 ### Sobre mim
 
-Comecei atuando em outra área como autônomo. Pesquisando formas de melhorar o visual e o marketing do meu negócio, conheci o mundo do design e desenvolvimento web, e percebi que era disso que eu gostava. Então decidi me dedicar à área de desenvolvimento front end e web design.
+Mais ou menos em 2020 comecei estudar design gráfico e fazer alguns trabalhos como freelancer. Já no começo de 2021 eu migrei de design gráfico para web design, criando layouts com Photoshop e XD e desenvolvendo sites em WordPress. Daí, mais ou menos em outubro de 2021, decidi que queria atuar como desenvolvedor front-end. De lá pra cá venho pegando firme nos estudos em JavaScript, React, CSS, SCSS e HTML.
 
-Atualmente estou cursando Técnico em Design e Produção para Web, no Senac. Também faço curso de Desenvolvimento Front End, na Origamid.
+Estou cursando técnico em design e desenvolvimento para web, pelo Senac, além de fazer outros cursos online. 
+
+Atualmente busco uma oportunidade de trabalho como CLT, mas também faço alguns trabalhos como freelancer usando as tecnologias que venho aprendendo.
+
+Um projeto que eu me orgulho muito é este site institucional fictício: https://mandeilavar.com/
+Neste projeto, além de usar html, css e javascript, eu usei como CMS o WordPress e um pouco de PHP. Dessa forma, eu fiz com que seja possível editar a maior parte do conteúdo escrito do site sem que o cliente final precise saber escrever código. 
 
 ### Soft Skills
 
-Faço parte de uma obra voluntária de educação bíblica, onde tenho contato com diferentes pessoas quase todos os dias.
+Faço parte de uma obra voluntária de educação bíblica, onde desenvolvemos habilidades comunicativas e temos contato com diferentes pessoas quase todos os dias. Já fui voluntário em equipes de projetos de construção e manutenção de locais voltados para reuniões religiosas.
 
-Já fui voluntário em equipes de projetos de construção e manutenção de locais voltados para reuniões religiosas. 
+Estou sempre buscando novos aprendizados que me possibilitem expandir minhas áreas de conhecimento. Aprendo novas habilidades com facilidade e rapidez. Dou atenção a detalhes, sou organização, pontual e comprometido.
 
-Estou sempre buscando novos aprendizados que me possibilitem expandir minhas áreas de conhecimento. Aprendo novas habilidades com facilidade e rapidez.
-
-Dou atenção a detalhes, sou organização, pontual e comprometimento.
 
 <br>
 
