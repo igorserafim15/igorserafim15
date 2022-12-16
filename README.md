@@ -15,14 +15,15 @@ Atualmente moro em São Paulo, SP.
 
 ### Sobre mim
 
-Mais ou menos em 2020 comecei estudar design gráfico e fazer alguns trabalhos como freelancer. Já no começo de 2021 eu migrei de design gráfico para web design, criando layouts com Photoshop e XD e desenvolvendo sites em WordPress. Daí, mais ou menos em outubro de 2021, decidi que queria atuar como desenvolvedor front-end. De lá pra cá venho pegando firme nos estudos em JavaScript, React, CSS, SCSS e HTML.
+Sou Programador Front End. Tenho conhecimento em UX / UI Design e desenvolvimento Mobile. Gosto de estudar e aprendo novas habilidades com facilidade.
 
-Estou cursando técnico em design e desenvolvimento para web, pelo Senac, além de fazer outros cursos online. 
+Procuro ter uma boa comunicação e colaboração com meus gestores e colegas de trabalho. Encaro desafios e gosto de aprender na prática.
 
-Atualmente busco uma oportunidade de trabalho como CLT, mas também faço alguns trabalhos como freelancer usando as tecnologias que venho aprendendo.
+Atualmente trabalho como Programador Front End ReactJS na Noli Fretes. 
 
-Um projeto que eu me orgulho muito é este site institucional fictício: https://mandeilavar.com/
-Neste projeto, além de usar html, css e javascript, eu usei como CMS o WordPress e um pouco de PHP. Dessa forma, eu fiz com que seja possível editar a maior parte do conteúdo escrito do site sem que o cliente final precise saber escrever código. 
+Cursei técnico em Design e Desenvolvimento para Web, pelo Senac, além de fazer outros cursos online.
+
+E atualmente estou fazendo um Bootcamp de Reactjs, React Native e Node.js na Rocketseat.
 
 ### Soft Skills
 
@@ -60,25 +61,9 @@ Estou sempre buscando novos aprendizados que me possibilitem expandir minhas ár
 
 ### Formação
 
-Curso Técnico de Produção e Design para Web, no Senac (Cursando, conclusão prevista para 01/2022)
+Curso Técnico de Produção e Design para Web, no Senac (Completo)
 
-### Cursos de Extensão
-
-HTML Completo (Hcode, concluido em 11/2021) 
-
-CSS Flexbox (Origamid, concluido em 10/2021)
-
-CSS Grid Layout (Origamid, concluido em 10/2021) 
-
-CSS com SASS (Origamid, concluido em 10/2021)
-
-JavaScript (Origamid, cursando)
-
-UI/UX Design Avançado (Rock Content University, concluido em 11/2020) 
-
-Adobe XD (Origamid, concluido em 11/2021) 
-
-<a href="https://drive.google.com/drive/folders/1ibZsmjLCxMrQPg_hlmiy3t-4aRFimUg3?usp=sharing">Ver Certificados<a>
+Bootcamp de ReactJS, React Native e Node js, na Rocketseat (Trilha Ignite). (Cursando)
 
 
 
