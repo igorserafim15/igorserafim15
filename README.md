@@ -1,9 +1,5 @@
 # Olá! Eu sou o Igor!
 
-Tenho 23 anos.
-
-Atualmente moro em São Paulo, SP.
-
 
 ### Contatos
 
