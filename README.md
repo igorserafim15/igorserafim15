@@ -1,5 +1,18 @@
 # Eu sou Igor
 
+### Sobre mim
+
+Desenvolvedor Mobile | Desenvolvedor FrontEnd | Typescript | React Native | ReactJS | NodeJS
+
+Tenho especialização em Typescript, ReactJS, React Native e NodeJS, e já trabalhei de ponta a ponta em projetos que envolvem sites, dashboard de clientes, dashboard para empresa e apps móveis.
+
+Atualmente, trabalho no app Noli Motorista, onde refatorei toda a interface com base no novo design system, e estou desenvolvendo novas funcionalidades.
+
+Além disso, no meu tempo livre trabalho em um projeto pessoal do app Gestão de Barbearia, disponível na Google Play, com +5 mil downloads, avaliação de 4,6 estrelas e cerca de 1 mil usuários ativos todos os meses. Neste projeto aprofundei minhas competências em React Native, ReactJS e NodeJS e desenvolvi novas habilidades como Docker, CI CD, AWS, Banco de dados e outros.
+
+Tenho capacidade de aprender rapidamente e resolver problemas. Por exemplo, recentemente desenvolvi um chatbot com IA que atendeu uma dor específica da empresa onde trabalho.
+
+Quero sempre ampliar minhas habilidades e continuar aprendendo.
 
 ### Contatos
 
@@ -11,21 +24,25 @@
 
 <hr>
 
+
 ### Full Stack Skills 
+<div style="display: inline_block">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+</div>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorserafim15&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Design Skills
 
-![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 
 
 ### Formação
@@ -35,6 +52,15 @@ Curso Técnico de Produção e Design para Web, no Senac (Completo)
 Bootcamp de ReactJS, React Native e Node js, na Rocketseat
 
 
+<br/>
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willian-seraf1m&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=willian-seraf1m&show_icons=true&theme=dark" />
 
 
 
